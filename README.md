@@ -18,6 +18,6 @@ spec:
   ref:
     branch: main
   timeout: 20s
-  url: https://github.com/mshayda/maximus-apps
+  url: https://github.com/d2iq-se/maximus
 EOF
 ```
