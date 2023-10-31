@@ -1,7 +1,7 @@
-displayName: NGC Application A 
-description: NGC Application A 
+displayName: Maximus Application A 
+description: Maximus Application A 
 category:
-- NGC Applications
+- Maximus Applications
 type: catalog
 allowMultipleInstances: true
 scope:
@@ -11,7 +11,7 @@ certifications:
   - airgapped
 overview: |-
   ## Revision Notes 
-  Here are some notes on NGC Application A versions 1.0.0.0 and 1.0.3.2
+  Here are some notes on Maximus Application A versions 1.0.0.0 and 1.0.3.2
 
   ## Installation
   Here is a link to documnetation for installation assistance that may be specialized for your environment.

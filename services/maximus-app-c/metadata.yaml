@@ -1,19 +1,19 @@
-displayName: NGC Application C 
-description: NGC Application C 6.0.1beta
+displayName: Maximus Application C 
+description: Maximus Application C 6.0.1beta
 category:
-- NGC Applications
+- Maximus Applications
 type: catalog
 allowMultipleInstances: false
 scope:
 - workspace
 overview: |-
   ## Revision Notes 
-  Here are some notes on NGC App C
+  Here are some notes on Maximus App C
 
   ## Installation
   Install notes ...
 
-  ## NGC Application C Notes
+  ## Maximus Application C Notes
   Notes go here
   
   ## Operations

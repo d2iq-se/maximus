@@ -1,5 +1,5 @@
-# dkp-catalog-apps-fdic
-dkp-catalog-apps-fdic
+# Maximus Applications
+maximus-apps
 
 ```
 kubectl apply -f - <<EOF
@@ -18,6 +18,6 @@ spec:
   ref:
     branch: main
   timeout: 20s
-  url: https://github.com/mshayda/dkp-catalog-apps-fdic
+  url: https://github.com/mshayda/maximus-apps
 EOF
 ```
