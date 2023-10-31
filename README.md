@@ -6,7 +6,7 @@ kubectl apply -f - <<EOF
 apiVersion: source.toolkit.fluxcd.io/v1beta2
 kind: GitRepository
 metadata:
-  name: fdic-catalog-applications
+  name: maximus-catalog-applications
   namespace: kommander
   labels:
     kommander.d2iq.io/gitapps-gitrepository-type: catalog
